@@ -9,7 +9,6 @@ tabsetPanel(
  tabPanel("Text Predictions",
 
           fluidRow(
-            
             column(3),
             column(4),
                    tags$div(textInput("input_text", 
