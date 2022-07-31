@@ -5,6 +5,11 @@
 .Rproj
 *.Rproj
 
+# Renv
+renv/
+renv/*
+/renv
+
 # History files
 .Rhistory
 .Rapp.history
